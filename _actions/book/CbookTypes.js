@@ -1,0 +1,1 @@
+export const CBOOK_READ = "cbook_read";

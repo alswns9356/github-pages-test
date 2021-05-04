@@ -1,0 +1,1 @@
+export const WBOOK_READ = "wbook_read";

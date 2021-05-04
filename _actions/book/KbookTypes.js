@@ -1,0 +1,1 @@
+export const KBOOK_READ = "kbook_read";

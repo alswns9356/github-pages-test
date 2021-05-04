@@ -1,0 +1,1 @@
+export const JBOOK_READ = "jbook_read";
